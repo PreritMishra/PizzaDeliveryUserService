@@ -28,4 +28,4 @@ The UserService is a microservice responsible for managing user-related operatio
 
 #### Environment Variables
 
-Create a .env file in the root directory of the UserService with the following content:
+Create a .env file in the root directory 
